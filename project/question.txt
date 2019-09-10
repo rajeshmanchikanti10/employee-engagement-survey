@@ -1,0 +1,8 @@
+2).overall how satisfied are you working for the company?.1:dissatisfied.2:neutral.3:satisfied
+3).what is your current position?.1:position1.2:postion2.3:position3
+4).In which deparment do you work?.1:Department1.2:department2.3:department3
+5).How satisfied are you with annual raise.1:dissatisfied.2:neutral.3:satisfied
+6).The vacation time you receive.1:dissatisfied.2:neutral.3:satisfied
+7).Overall my supervisor does a good job.1:disagree.2:neutral.3:agree
+8).people in my department communicate suffiently with on another.1:disagree.2:neutral.3:agree
+9).The amount of work expected from me is reasonable.1:disagree.2:neutral.3:agree

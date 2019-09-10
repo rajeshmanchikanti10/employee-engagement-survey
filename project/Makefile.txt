@@ -1,0 +1,7 @@
+all: a question.o display.o
+a: question.o display.o
+	gcc -o a question.o display.o
+question.o:question.c
+	gcc -c question.c
+display.o:display.c
+	gcc -c display.c
